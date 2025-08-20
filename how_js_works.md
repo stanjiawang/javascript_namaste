@@ -1,3 +1,4 @@
+https://www.youtube.com/watch?v=ZvbzSrg0afE&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=3
 1. Everything in Javascript happens inside an Execution Context (big box/container)
 2. Memory component(Variable Environment), key: value, fn, a: 10
 3. Code component(Thread of Execution), code can only execute one line at a time, only can go to next line after current line is executed
