@@ -4,3 +4,4 @@ https://www.youtube.com/watch?v=qikxEIxsXco&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccP
 2. Even if we return the function, it still remembers its original lexical environment and local storage so it can access values.
 3. If we write return function x(){.....} --- this automatically returns the value.
 4. The function that is returned is reference so any change in value of that variable inside function will be reflected as such.
+<img width="831" height="295" alt="Screenshot 2025-08-26 at 10 58 16 AM" src="https://github.com/user-attachments/assets/cf0abd11-0f1a-4386-bd12-36044b1fadb9" />
