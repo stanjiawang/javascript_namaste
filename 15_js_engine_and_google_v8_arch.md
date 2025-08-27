@@ -15,5 +15,5 @@ AST: Abstract Syntax Tree astexplorer.net
 JIT compllation (Just in time)
 <img width="1305" height="970" alt="Screenshot 2025-08-27 at 12 32 19 PM" src="https://github.com/user-attachments/assets/3bc01854-33a3-4917-b4a6-0fead533340c" />
 <img width="867" height="601" alt="Screenshot 2025-08-27 at 12 36 50 PM" src="https://github.com/user-attachments/assets/b38c8ff2-4109-4fdd-a7cc-0013e7e6996e" />
-Mark and Sweep for garbage collection 
 <img width="770" height="577" alt="Screenshot 2025-08-27 at 12 39 36 PM" src="https://github.com/user-attachments/assets/62fb3a5f-3fcb-402c-806e-c80b59f3204b" />
+Mark and Sweep for garbage collection 
