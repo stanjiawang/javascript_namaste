@@ -19,3 +19,12 @@ https://www.youtube.com/watch?v=DlTVt1rZjIo&list=PLlasXeu85E9eWOpw9jxHOQyGMRiBZ6
 17. ```Promise.any``` waits for the first settled promise, and if it's a success, returns the result, ignoring subsequent rejections until a success occurs.
 18. When all promises fail with Promise.any, it results in an "aggregate error," which consolidates all the errors encountered during execution.
 19. Handling aggregate errors in Promise.any involves accessing the errors in an array format, allowing for comprehensive error management and analysis.
+<img width="1213" height="945" alt="Screenshot 2025-08-29 at 12 41 24 PM" src="https://github.com/user-attachments/assets/54282a17-de70-402a-b55f-208260b2f1f2" />
+```Promise.all``` all or nothing, one failure, all failure. Failed fast. If all success, return a list of all success, [res1, res2, res3].
+<img width="1326" height="684" alt="Screenshot 2025-08-29 at 12 43 17 PM" src="https://github.com/user-attachments/assets/c60ca32e-5e2c-4d0e-9149-741eec1e743f" />
+```Promise.allSettled``` will wait for all settled no matter success of fail. Return all result no matter success or failure.
+<img width="1245" height="848" alt="Screenshot 2025-08-29 at 12 45 42 PM" src="https://github.com/user-attachments/assets/287bf68a-5b4a-4452-ad32-c29e33ea950a" />
+```Promise.race``` return the first settled value, no matter success or failure. it could settled with either success or failure.
+<img width="1211" height="713" alt="Screenshot 2025-08-29 at 12 48 56 PM" src="https://github.com/user-attachments/assets/925830dd-5380-4b40-b0b2-20715d73a790" />
+```Promise.any``` return the first success, ignore the failure before success. If all failed, return a aggregate error, a list of all errors: [err1, err2, err3]
+
