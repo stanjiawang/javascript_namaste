@@ -12,3 +12,4 @@ https://www.youtube.com/watch?v=U74BJcr8NeQ&list=PLlasXeu85E9eWOpw9jxHOQyGMRiBZ6
 10. Always remember to return a value in the promise chain for the next ```.then``` to use ```.```
 11. If it returns a value => It will be  used as an argument in next function. If it is a promise then the next ```.then``` in the promise chain is attached to the promise returned by the current callback function.
 <img width="457" height="540" alt="Screenshot 2025-08-29 at 11 33 07 AM" src="https://github.com/user-attachments/assets/b9e098fb-219e-487d-8dd7-8718f08e0217" />
+<img width="602" height="349" alt="Screenshot 2025-08-29 at 11 44 00 AM" src="https://github.com/user-attachments/assets/599e28df-0ca1-499c-901f-a529de2dd04d" />
