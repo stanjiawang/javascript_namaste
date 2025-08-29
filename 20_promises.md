@@ -22,7 +22,9 @@ https://www.youtube.com/watch?v=ap-6PPAuK1Y&list=PLlasXeu85E9eWOpw9jxHOQyGMRiBZ6
 <img width="739" height="331" alt="Screenshot 2025-08-29 at 10 58 09 AM" src="https://github.com/user-attachments/assets/002af69f-adff-4712-89d0-484bdf6da4f2" />
 
 Promise is nothing but an object,
+```
 Prototype: Promise
 PromiseState: pending/fulfilled/rejected
 PromiseResult: undefine/Response
+```
 
