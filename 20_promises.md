@@ -3,6 +3,7 @@ https://www.youtube.com/watch?v=ap-6PPAuK1Y&list=PLlasXeu85E9eWOpw9jxHOQyGMRiBZ6
 1. Before promise we used to depend on callback functions which would result in
    
    a. Callback Hell (Pyramid of doom)
+   
    b. Inversion of control
 2. Inversion of control is overcome by using promise.
    
