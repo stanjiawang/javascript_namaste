@@ -2,7 +2,7 @@ https://www.youtube.com/watch?v=6nv3qy3oNkc&list=PLlasXeu85E9eWOpw9jxHOQyGMRiBZ6
 
 1. ```async/await``` used for handling promises
 2. ```async``` always return a promise,  use ```async``` before a promise, and it will resolve the promise. ```const val = await promise```
-3. ```await` can only used inside an async function
+3. ```await``` can only used inside an async function
 4. Can only write ```await``` keyword infront of a promise
 5. Major difference: the await will wait for the promise to be resolved, then execute the next line. Don't need promise chain like ```.then().then().then()...```
 6. If there are two/all await in one function, the two/all await will be resolved at the same time if the following 
